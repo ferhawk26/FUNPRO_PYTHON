@@ -5,3 +5,4 @@ resta = a - b
 producto = a * b
 print("La suma es: ", suma)
 print("La resta es: ", resta)
+print("El producto es: ",producto)
